@@ -120,6 +120,7 @@ public class Text_Manipulation {
 
                 String shifted_SSString = String.valueOf(shiftedChar);
                 schwifty.add(shifted_SSString);
+                mylist.add(shifted_SSString);
 
                 map.put(i, mylist);
                 i++;
